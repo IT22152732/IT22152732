@@ -1,4 +1,3 @@
-![imgui](https://github.com/IT22152732/IT22152732/assets/127375343/2d6828e6-784a-48b2-9923-ccc84f5a9b8a)
 <h1 align="center">Hi 👋, I'm Hasara Samadhi Herath</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
